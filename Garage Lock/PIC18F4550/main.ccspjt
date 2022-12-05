@@ -1,0 +1,35 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC18F4550
+CCSVerions=5.015
+Compiler=PCH
+CCSVersion=5.015
+[Target Data]
+FileList=main.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;C:\Program Files (x86)\PICC\Drivers\C:\Program Files (x86)\PICC\Devices\
+[C:\Users\Selami\Desktop\Embedded Bootcamp Projesi\PIC18F4550\main]
+Type=4
+[mru-list]
+1=main.c
+[Opened Files]
+1=main.c
+2=main.h
+3=
+4=..\..\..\..\..\Program Files (x86)\PICC\Drivers\lcd.c
+5=
+6=
+[main.c]
+Type=4
+[Documentation]
+1=C:\Users\Akes\OneDrive\Resimler\Calismalar\Embedded Bootcamp Projesi\PIC18F4550\main Notes.txt
+1T=main Notes.txt
+1E=
+1W=0
+Count=1
+[ExtraIncludes]
+Count=1
+1=main=c:\users\selami\desktop\embedded bootcamp projesi\pic18f4550\flex_kbd.c
+[Units]
+Count=1
+1=main (main)
